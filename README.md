@@ -1,6 +1,8 @@
 # Laboratorio6
 Learning how to create a library
+
     -LINUX-
+    
   1 - Para executar o arquivo, baixe a pasta questao1, logo em seguida abra o terminal e digite make.
   
   2 - Logo após as bibliotecas estática e dinâmica, serão criadas, respectivamente .a e .so
