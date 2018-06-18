@@ -7,4 +7,4 @@ Learning how to create a library
   
   2 - Logo após as bibliotecas estática e dinâmica, serão criadas, respectivamente .a e .so
   
-  3 - Digite ./build/math_estatico | -Lembrete- ./build/math_dinamico (não está funcionando ainda pois o prof ainda não disponibilizou no sigaa).
+  3 - Digite ./build/math_estatico | -Lembrete- ./build/math_dinamico (não está funcionando ainda pois o prof ainda não disponibilizou as 3 soluções no sigaa).
